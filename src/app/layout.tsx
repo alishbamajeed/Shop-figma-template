@@ -9,7 +9,7 @@ import Providers from "./providers";
 
 export const metadata: Metadata = {
   title: "SHOP.CO",
-  description: "Create By Sakeena Majeed",
+  description: "Create By Alishba Majeed",
 };
 
 export const viewport: Viewport = {
